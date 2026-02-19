@@ -1,3 +1,5 @@
+# This is a test app created from VSCode agent running Claude Haiku
+
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
